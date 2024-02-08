@@ -1,0 +1,19 @@
+{
+  "name": "runestone_checker",
+  "version": "1.0.0",
+  "description": "Wallet checker for Runestone token airdrop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Runestone",
+    "airdrop",
+    "check"
+  ],
+  "author": "Oof",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

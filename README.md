@@ -1,2 +1,2 @@
 # runestone-checker
-Checker wallets eligible for runestone incoming Airdrop
+Check eligible wallets for Runestone incoming airdrop
